@@ -9,6 +9,10 @@ The Beauty Product Recommendation System is a project focused on leveraging Big 
 - **User Feedback Loop**: Incorporates user feedback to continuously improve the recommendation algorithm and enhance user satisfaction.
 - **Scalability**: Designed to handle large volumes of data efficiently, ensuring scalability as the user base and product catalog grow.
 
+## DATASET AND COLAB LINK
+- DATASET : https://drive.google.com/file/d/16iJ_uwjRwW0vNAtfsQis6dzT9_SZo5mB/view?usp=sharing
+- COLAB : https://colab.research.google.com/drive/1gBew9luAeiOqRHAWc_dqwfxAmFUdwOJ0?usp=sharing
+
 ## Technologies Used
 - **Big Data Analytics**: Leveraging big data technologies and analytics techniques to process and analyze vast amounts of beauty product data.
 - **Machine Learning Algorithms**: Implementing machine learning algorithms for personalized recommendation generation based on user data and preferences.
